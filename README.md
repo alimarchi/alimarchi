@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
-<h3 align="center">A full stack web developer in progress</h3>
+<h3 align="center">Junior Full Stack Web Developer</h3>
 
 - 🔭 I’m currently working on **my personal portfolio**
 
