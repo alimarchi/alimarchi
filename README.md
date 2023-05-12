@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alice</h1>
 <h3 align="center">Junior Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **a Full Stack Web Development bootcamp at CodeSpace Academy**
+- 🌱 I recently completed a comprehensive **Full Stack Web Development Bootcamp** at CodeSpace Academy, which provided me with a solid foundation in both frontend and backend development. Throughout the program, I gained proficiency in a variety of technologies, including JavaScript, React, CSS, Node.js, and Express.js.
+- 🔭 I am currently dedicated to building my portfolio and working on personal projects to gain practical experience and further enhance my skills as a **Web Developer**. My primary objective is to secure a new professional opportunity in the field where I can contribute my expertise.
+-  💻 I am a versatile and multipotentialite person, driven by curiosity and a strong passion for **learning**. I actively seek out opportunities to grow professionally, whether it be through attending courses, watching tutorials, or delving into documentation. **Problem-solving** is something I thrive on, and I enjoy putting my knowledge into practice by tackling challenges and debugging. Moreover, I have a deep appreciation for **design** and strive to create user-friendly and visually appealing applications.
 
-- 📫 How to reach me **marchi_alice@yahoo.com**
+- 📫 How to reach me: **marchi_alice@yahoo.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alimarchi_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alymarchi_dev" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alimarchi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alice marchi" height="30" width="40" /></a>
 </p>
 
